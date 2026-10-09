@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Portfolio_Qayyum.html" }
+  ]
+}
