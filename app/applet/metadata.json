@@ -1,0 +1,8 @@
+{
+  "name": "Qayyum Zakhwan Portfolio",
+  "description": "Portfolio of Qayyum Zakhwan — Product & UI/UX Designer bridging user research, intuitive interface design, and emerging technology.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
